@@ -1,0 +1,42 @@
+body h2{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-family: cursive;
+}
+
+.div1{
+    display: flex;
+    margin: auto;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 10px;
+}
+
+.o1{
+    color: #f761bd;
+}
+
+.o2{
+    color: rgb(10, 141, 50);
+}
+
+a button{
+    justify-content: center;
+    display: flex;
+    margin: auto;
+    font-size: 2pc;
+    margin-top: 2pc;
+    margin-bottom: 3pc;
+    background-color: #f761bd;
+    color: aliceblue;
+    border-radius: 10px;
+    width: 15pc;
+    height: 6pc;
+    font-family: cursive;
+    border: none;
+}
+
+a{
+    text-decoration: none;
+}

@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(0, 0, 0);
+    align-self: auto;
+}
+
+.carta{
+    margin: auto;
+    display: flex;
+    margin-top: 5pc;
+    height: 13pc;
+}
+
+body h1{
+    color: aliceblue;
+    justify-content: center;
+    display: flex;
+    margin-top: 10pc;
+    font-size: 28px;
+    font-family: cursive;
+}
+
+body button{
+    justify-content: center;
+    display: flex;
+    margin: auto;
+    font-size: 2pc;
+    margin-top: 6pc;
+    background-color: rgb(255, 86, 86);
+    color: aliceblue;
+    border-radius: 10px;
+    border: none;
+    width: 18pc;
+    height: 3pc;
+    font-family: cursive;
+}
+
+a{
+    text-decoration: none;
+}

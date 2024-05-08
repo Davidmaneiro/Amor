@@ -1,0 +1,49 @@
+div img{
+    height: 15pc;
+    border-radius: 15px;
+}
+
+body{
+    justify-content: center;
+    display:grid;
+    margin: auto;
+}
+
+.div1{
+    margin: 65px;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.div2{
+    margin: 65px;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.div3{
+    margin: 65px;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}   
+
+body h1{
+    text-align: center;
+    font-size: 25px;
+    font-family: cursive;
+}
+
+.o1{
+    color: #f761bd;
+}
+
+.o2{
+    color: rgb(10, 141, 50);
+}
+
+.detalhe{
+    margin-bottom: 10px;
+}
